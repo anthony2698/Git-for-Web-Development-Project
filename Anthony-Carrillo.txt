@@ -128,13 +128,20 @@ Project 1 Codepen - https://codepen.io/anthonyy98/pen/eYmjvLG?editors=1100
     4. Create own branch name for repo, then add and commit changes.
     5. When ready push changes into Github repo.
     6. Add TL to the reviewrs and Submit pull request.
-    
+
 
 
 Stretch Questions
 
     1. What is the difference between an inline element and a block element?
-    2. What happens when an element is positioned absolutely? 
-    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
-    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+    An inline element does not cause a line break, while a block level elemenet always starts on a new line.
+
+    2. What happens when an element is positioned absolutely?
+
+    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width?
+
+    4. Name 3 elements that are display block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+    3 elements that are display block by default are button, input, and textarea. 2 elements that are inline by default are span and a. 1 element that inline-block is a div.
+
     5. In your own words, explain the box model. What is the fix for the box model?
+    The box model contains of a margin, bprder, padding, and the content itself. 
